@@ -20,7 +20,7 @@ make && sudo make install
 cd ../../ || exit
 
 cd pift8
-git clone https://github.com/F5OEO/ft8_lib
+git clone https://github.com/alanbjohnston/ft8_lib
 cd ft8_lib
 make && sudo make install
 cd ../
