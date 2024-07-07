@@ -14,7 +14,7 @@ make && sudo make install
 cd ../ || exit
 
 cd src || exit
-git clone https://github.com/F5OEO/librpitx
+git clone https://github.com/alanbjohnston/librpitx
 cd librpitx/src || exit
 make && sudo make install
 cd ../../ || exit
