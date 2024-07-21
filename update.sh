@@ -21,7 +21,9 @@ cd ../ || exit
 
 cd src || exit
 
-#git clone https://github.com/alanbjohnston/librpitx
+sudo rm -r librpitx
+
+git clone https://github.com/alanbjohnston/librpitx
 
 cd librpitx/src || exit
 
